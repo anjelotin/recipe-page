@@ -87,6 +87,7 @@ body {
 }
 
 .prep-info p {
+    font-size: 1.25rem;
     margin-bottom: 1rem;
     color: var(--rose-800);
 }
@@ -126,6 +127,11 @@ body {
     margin-bottom: 1.5rem;
 }
 
+.ingredients-info {
+    padding-bottom: 2rem;
+    border-bottom: 1px solid var(--stone-150);
+}
+
 .ingredients-info, .instructions-info {
     margin:2rem 0rem;
 }
@@ -148,6 +154,11 @@ body {
     line-height: 1.5;
     flex-shrink: 0;
     margin-inline: .5rem 2rem;
+}
+
+.instructions-info {
+    padding-bottom: 2rem;
+    border-bottom: 1px solid var(--stone-150)
 }
 
 .instructions-info ol {
@@ -192,6 +203,7 @@ body {
 }
 
 .nutrition-info th, td {
+    padding-top: .75rem;
     padding-bottom: .75rem;
     text-align: start;
     border-bottom: 1px solid var(--stone-150);
