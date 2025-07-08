@@ -10,7 +10,8 @@ This is my solution to the **Recipe Page** project on Frontend Mentor
 - Google Fonts [Outfit](https://fonts.google.com/specimen/Outfit)
 - Google Fonts [Young Serif](https://fonts.google.com/specimen/Young+Serif)
 
-## [Recipe Page Preview Screenshot](./assets/images/recipe-page-ss.png)
+## Screenshot
+![Recipe Page Preview Screenshot](./assets/images/recipe-page-ss.png)
 
 ## What I learned
 
