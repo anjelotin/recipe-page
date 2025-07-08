@@ -137,7 +137,7 @@ body {
 }
 
 .ingredients-info, .instructions-info {
-    margin:2rem 0rem;
+    margin-bottom: 2rem;
 }
 
 .ingredients-list li{
