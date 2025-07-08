@@ -76,6 +76,7 @@ body {
     font-size: 2rem;
     line-height: 1.2;
     margin-bottom: 1.5rem;
+    color: var(--stone-900);
 }
 
 .recipe-description {
@@ -102,7 +103,7 @@ body {
 }
 
 .prep-info span {
-    color: var(--stone-900);
+    color: var(--stone-600);
 }
 
 .prep-info li{
@@ -145,6 +146,7 @@ body {
     align-items: center;
     list-style: none;
     margin-bottom: .5rem;
+    color: var(--stone-600);
 }
 
 .ingredients-list li:last-child {
@@ -191,6 +193,7 @@ body {
 
 .nutrition-info {
     padding-bottom: 2.5rem;
+    color: var(--stone-600);
 }
 
 .nutrition-info table {
@@ -199,7 +202,6 @@ body {
 }
 
 .nutrition-info th {
-    color: var(--stone-600);
     font-weight: normal;
     padding-left: 2rem;
 }
